@@ -2,7 +2,7 @@ package br.com.weka.datamining.constants;
 
 /**
  * 
- * @author caval
+ * @author cavalkys
  *
  */
 public class FaixaIdade {

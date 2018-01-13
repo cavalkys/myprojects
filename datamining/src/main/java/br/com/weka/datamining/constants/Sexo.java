@@ -1,6 +1,10 @@
 package br.com.weka.datamining.constants;
 
-
+/**
+ * 
+ * @author cavalkys
+ *
+ */
 public class Sexo {
 
 	public static final String FEMININO = "F";

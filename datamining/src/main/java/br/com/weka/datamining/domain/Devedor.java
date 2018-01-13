@@ -1,5 +1,10 @@
 package br.com.weka.datamining.domain;
 
+/**
+ * 
+ * @author cavalkys
+ *
+ */
 public class Devedor {
 
 	private String credor;
@@ -12,7 +17,7 @@ public class Devedor {
 	
 	private String sexo;
 	
-	private String fazAcordo;
+	private boolean fazAcordo;
 
 	public String getCredor() {
 		return credor;
@@ -54,11 +59,11 @@ public class Devedor {
 		this.sexo = sexo;
 	}
 
-	public String getFazAcordo() {
+	public boolean isFazAcordo() {
 		return fazAcordo;
 	}
 
-	public void setFazAcordo(String fazAcordo) {
+	public void setFazAcordo(boolean fazAcordo) {
 		this.fazAcordo = fazAcordo;
 	}
 

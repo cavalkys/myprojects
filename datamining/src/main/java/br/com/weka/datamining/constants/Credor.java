@@ -1,6 +1,10 @@
 package br.com.weka.datamining.constants;
 
-
+/**
+ * 
+ * @author cavalkys
+ *
+ */
 public class Credor {
 
 	public static final String SANTANDERFIN = "Santander Financiamentos";
